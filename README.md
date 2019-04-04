@@ -12,10 +12,6 @@ In this project, I detected highway lane lines on a video stream and used OpencV
 
 You can check out the new advanced version of this project [here](https://github.com/Michael-Tu/Udacity-Self-Driving-Car/tree/master/p4-advanced-lane-finding).
 
-
-## Get the Code
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/land-line/p1-finding-land-line.zip)
-
 ## Working Examples
 Here are two videos of my working land line detection pipeline:
 
